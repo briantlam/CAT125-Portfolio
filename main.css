@@ -24,3 +24,30 @@
 	font-size: 48px;
 	font-family: 'Shift', open-sans;
 }
+
+.profile{
+    margin-left: auto;
+}
+.learn-more {
+    margin-left: 200px;
+}
+
+.resume{
+    padding-top: 50px;
+}
+
+.word{
+    padding-right: 100px;
+}
+
+.tacode{
+    padding-top: 50px;
+}
+
+.game{
+    padding-top: 50px;
+}
+
+.word{
+    padding-top: 50px;
+}
