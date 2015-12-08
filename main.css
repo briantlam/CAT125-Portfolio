@@ -14,7 +14,7 @@
 }
 
 .jumbotron{
-    background-image: url("header.jpg");
+    background-image: url("images/header.jpg");
 	height: 500px;
 	background-repeat: no-repeat;
 	background-size: cover;
@@ -25,15 +25,27 @@
 	font-family: 'Shift', open-sans;
 }
 
-.profile{
-    margin-left: auto;
-}
-.learn-more {
-    margin-left: 200px;
+.text{
+    color: black;
+    font-size: 15px;
 }
 
 .resume{
     padding-top: 50px;
+    display: table;
+    margin: 0 auto;
+}
+
+.profile{
+    margin-left: auto;
+}
+.learn-more {
+    margin-right: 100px;
+}
+
+.experience {
+    margin-right: 100px;
+    padding-top: 25px;
 }
 
 .word{
@@ -42,7 +54,6 @@
 
 .video{
     padding-top: 50px;
-    vertical-align: center;
 }
 
 .tacode{
