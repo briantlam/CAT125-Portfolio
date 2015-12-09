@@ -28,6 +28,11 @@
 .text{
     color: black;
     font-size: 15px;
+    padding-top: 25px;
+}
+
+.links a:hover{
+    text-decoration: none;
 }
 
 .resume{
@@ -48,10 +53,6 @@
     padding-top: 25px;
 }
 
-.word{
-    padding-right: 100px;
-}
-
 .video{
     padding-top: 50px;
 }
@@ -61,10 +62,6 @@
 }
 
 .game{
-    padding-top: 50px;
-}
-
-.word{
     padding-top: 50px;
 }
 
